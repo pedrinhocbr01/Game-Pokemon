@@ -1,0 +1,8 @@
+{
+  "name": "story-rpg",
+  "private": true,
+  "description": "Jornada local inspirada no painel do Pokémon Story, usando a Pokédex e os itens desta pasta.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
